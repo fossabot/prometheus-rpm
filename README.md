@@ -1,6 +1,7 @@
 # Prometheus RPM Packages
 
 [![Build Status](https://travis-ci.org/lest/prometheus-rpm.svg?branch=master)](https://travis-ci.org/lest/prometheus-rpm)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkelnmaari%2Fprometheus-rpm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkelnmaari%2Fprometheus-rpm?ref=badge_shield)
 
 The repository contains the files needed to build [Prometheus][1] RPM packages
 for CentOS 7.
@@ -77,3 +78,7 @@ available in [Github][4] or in [Galaxy][5].
 [3]: https://www.ansible.com/
 [4]: https://github.com/cogini/ansible-role-prometheus-rpm
 [5]: https://galaxy.ansible.com/cogini/prometheus-rpm/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkelnmaari%2Fprometheus-rpm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkelnmaari%2Fprometheus-rpm?ref=badge_large)
